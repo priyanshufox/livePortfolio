@@ -3,6 +3,9 @@
 **Description:**
 A vibrant personal portfolio showcasing my web development skills. I've used Next.js 🚀, Tailwind CSS 💅, and Framer Motion 💫 to create a visually stunning and interactive experience.
 
+![Screenshot 2024-09-16 202836](https://github.com/user-attachments/assets/42520d3b-e786-41b4-aab1-e424151f2491)
+
+
 **Features:**
 * 📱 Responsive design for all devices
 * 🎨 Customizable theme with a variety of color palettes
